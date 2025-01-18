@@ -9,3 +9,6 @@ button{
 legend{
     font-weight: bold;
 }
+fieldset{
+    width: fit-content;
+}
